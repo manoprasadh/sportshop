@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sportshop/static/css/main.6c4e96a8.chunk.css",
+    "main.js": "/sportshop/static/js/main.8f8257ee.chunk.js",
+    "main.js.map": "/sportshop/static/js/main.8f8257ee.chunk.js.map",
+    "runtime-main.js": "/sportshop/static/js/runtime-main.166e982d.js",
+    "runtime-main.js.map": "/sportshop/static/js/runtime-main.166e982d.js.map",
+    "static/js/2.5f4c8a0f.chunk.js": "/sportshop/static/js/2.5f4c8a0f.chunk.js",
+    "static/js/2.5f4c8a0f.chunk.js.map": "/sportshop/static/js/2.5f4c8a0f.chunk.js.map",
+    "static/js/3.32643cfc.chunk.js": "/sportshop/static/js/3.32643cfc.chunk.js",
+    "static/js/3.32643cfc.chunk.js.map": "/sportshop/static/js/3.32643cfc.chunk.js.map",
+    "index.html": "/sportshop/index.html",
+    "static/css/main.6c4e96a8.chunk.css.map": "/sportshop/static/css/main.6c4e96a8.chunk.css.map",
+    "static/js/2.5f4c8a0f.chunk.js.LICENSE.txt": "/sportshop/static/js/2.5f4c8a0f.chunk.js.LICENSE.txt",
+    "static/media/boy.741dd63d.png": "/sportshop/static/media/boy.741dd63d.png",
+    "static/media/map.3b98b9e8.png": "/sportshop/static/media/map.3b98b9e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166e982d.js",
+    "static/js/2.5f4c8a0f.chunk.js",
+    "static/css/main.6c4e96a8.chunk.css",
+    "static/js/main.8f8257ee.chunk.js"
+  ]
+}
